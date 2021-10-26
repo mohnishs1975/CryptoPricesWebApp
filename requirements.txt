@@ -1,0 +1,7 @@
+dash
+dash_core_components
+dash_html_components
+plotly
+dash_bootstrap_components
+python-binance
+cbpro

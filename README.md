@@ -2,9 +2,10 @@
 View live prices of BTC and ETH on Binance and Coinbase
 
 # Build and run instructions(Using WSL or Ubuntu)
-1. Install all of the necessary dependencies using pip3 install -r requirments.txt
-2. Run server using python3 WebApp.py.
-3. To view the webpage search http://127.0.0.1:8050/ in your browser.
+1. Clone repo using git clone https://github.com/mohnishs1975/CryptoPricesWebApp.git
+2. Install all of the necessary dependencies using pip3 install -r requirments.txt
+3. Run server using python3 WebApp.py.
+4. To view the webpage search http://127.0.0.1:8050/ in your browser.
 
 # Questionnaire
 1. A shortcut I took was not deploying the app. I ran into a number of problems using free hosting services ranging from low disk space to load balancing issues. Heroku in particular had trouble installing dependencies as some had conflicting dependencies of different versions. There were too many dependencies for pythonanywhere to store as well. The web page worked fine on the localhost so I thought this could be implemented later.
